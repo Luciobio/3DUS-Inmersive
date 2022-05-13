@@ -1,5 +1,4 @@
 import React from 'react'
-import { Link } from 'react-router-dom'
 import logo from '../../icons/RCNY.png'
 import homebkg from '../../images/posters/HERO3_shade.jpg'
 import './Home.css'
