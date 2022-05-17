@@ -15,7 +15,7 @@ const Home = () => {
             <div className='intro-poster'>
                 <img src={logo} className='logo' alt="Logo"/>
                 <div className='start-btn btn'>
-                <a className='web-link2 white-link'href='http://186.138.251.141'>
+                <a className='web-link2 white-link'href='http://181.96.194.53'>
                     Inmersive Experience
                 </a>
                 </div>
